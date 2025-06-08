@@ -15,7 +15,7 @@ pip install -r requirements.txt
 # 2 Создайте файл .env в корневой папке со следующим содержимым
 BOT_TOKEN=your_bot_token_from_botfather
 ADMIN_IDS=your_telegram_id
-Токен бота получите у @BotFather в Telegram через команду /newbot.
-Укажите ваш Telegram ID в ADMIN_IDS.
+(Токен бота получите у @BotFather в Telegram через команду /newbot.
+Укажите ваш Telegram ID в ADMIN_IDS.)
 # 3 Запустите бот
 python bot.py
